@@ -1,6 +1,6 @@
 # BLOG POST APPLICATION USING PHP AND MYSQL
 
-This application is used to create posts by admins and the users can make comments and the comments can be approved by admins.
+This application is used to create posts by admins and the users can make comments and the comments can be approved by admins to display it on the page.
 
 ## Installation
 
